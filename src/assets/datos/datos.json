@@ -1,0 +1,27 @@
+{
+	"header": {
+		"fraseBanner": "Desarrollador Web, Informatico,Soñador",
+		"adicionalBanner": "porfolioWeb"
+	},
+	"acerca-de": {
+		"Foto": "",
+		"nombre": "Sotomayor Ari",
+		"titulo": "desarrollar FullStack",
+		"resumen": "ncasndcpasndcpasndcpiqn"
+	},
+	"educacion": [{
+			"educacion1": {
+				"titulo": "titulo1",
+				"institulo": "institulo",
+				"descripcion": "descripcion"
+			}
+		},
+		{
+			"educacion2": {
+				"titulo": "titulo2",
+				"institulo": "institulo",
+				"descripcion": "descripcion"
+			}
+		}
+	]
+}
